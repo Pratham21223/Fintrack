@@ -2,6 +2,10 @@
 
 A role-based financial records management system with dashboard analytics, built with the MERN stack.
 
+**Docs** — https://fintrack-docs.vercel.app/
+**Live Demo** — https://fintrack-live.vercel.app/
+**API** — https://fintrack-be.vercel.app/api
+
 ---
 
 ## Overview
